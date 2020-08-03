@@ -1,0 +1,5 @@
+node-gyp configure --python C:\Users\amart\AppData\Local\Programs\Python\Python38-32
+
+npm config set python C:\Users\amart\AppData\Local\Programs\Python\Python38-32
+npm install --ignore-script
+npm start
